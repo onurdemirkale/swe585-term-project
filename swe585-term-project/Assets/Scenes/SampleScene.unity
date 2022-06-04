@@ -1898,7 +1898,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 305, y: -80}
+  m_AnchoredPosition: {x: 305, y: -120}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1054676861
@@ -4181,7 +4181,7 @@ ParticleSystem:
     curve:
       serializedVersion: 2
       minMaxState: 1
-      scalar: 0.7853982
+      scalar: 174.53293
       minScalar: 0.7853982
       maxCurve:
         serializedVersion: 2
@@ -6376,7 +6376,7 @@ ParticleSystem:
     y:
       serializedVersion: 2
       minMaxState: 1
-      scalar: 1
+      scalar: 191.98622
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -6429,7 +6429,7 @@ ParticleSystem:
     curve:
       serializedVersion: 2
       minMaxState: 1
-      scalar: 0.017453292
+      scalar: 0
       minScalar: 0.7853982
       maxCurve:
         serializedVersion: 2

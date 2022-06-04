@@ -26,7 +26,7 @@ public class UIManager : MonoBehaviour
 
     public void ToggleShadows()
     {
-        var renderer = particle.renderer;
+        // var renderer = particle.renderer;
 
         // if(shadowsToggle)
         // {
